@@ -5,20 +5,20 @@ a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.1em; line-height: 1.2em; color: #333; }
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+h1, h2, h3, h4 { font-family: 'Lato', sans-serif; }
 h1 { font-size: 2.2em; }
 h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
 h4 { font-size: 1.2em; }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul, footer ul { font-size: 1em; font-family: 'Lato', sans-serif; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* About */
 .about { margin: 0px 0px 60px; }
-.cv h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv h1, h2, h3, h4 { font-family: 'Lato', sans-serif; }
 .cv h1 { font-size: 2.2em;  }
 .cv h2 { font-size: 1.6em; }
 .about nav ul li { display: inline; margin-right: 20px; }
@@ -26,7 +26,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv .download { float: left; font-size: .8em; text-transform: uppercase; }
-.cv h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv h1, h2, h3, h4 { font-family: 'Lato', sans-serif; }
 .cv h1 { font-size: 2.2em; }
 .cv h2 { font-size: 1.6em; }
 .cv h3 { font-size: 1.3em; }
