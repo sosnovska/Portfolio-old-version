@@ -25,7 +25,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+.cv .download { float: left; font-size: .8em; text-transform: uppercase; }
 .cv h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv h1 { font-size: 2.2em; }
 .cv h2 { font-size: 1.6em; }
