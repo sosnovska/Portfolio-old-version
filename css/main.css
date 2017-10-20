@@ -10,7 +10,8 @@ h1 { font-size: 2.2em; }
 h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
 h4 { font-size: 1.2em; }
-.grey { color:#b8bdc4;font-weight:bold;font-family: 'Lato', sans-serif;font-size:20 }
+
+span.grey { color:#b8bdc4; font-weight:bold; font-family: 'Lato', sans-serif; font-size:1.3; }
 
 nav ul, footer ul { font-size: 1em; font-family: 'Lato', sans-serif; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
